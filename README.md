@@ -4,6 +4,7 @@
 ### Execution of Project Instructions
 
 1.1.1 Found an image file to represent myself ::: images/me.png;
+
 1.1.2 Found an image file for the background ::: images/spb.jpg;
 1.2.1 Profile image file sized down to 307 Kb using Photoshop, now fits the limit (< 400kb);
 1.2.2 Background image file fits the limits imposed by the course (358kb < 1Mb);
