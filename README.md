@@ -23,3 +23,6 @@
 2.2 Background section was personalized;
 
 2.3 Goals section was personalized.
+
+
+3 GitHub, Twitter and LinkedIn accounts added.
