@@ -26,3 +26,6 @@
 
 
 3 GitHub, Twitter and LinkedIn accounts added.
+
+
+4 Home link fixed.
