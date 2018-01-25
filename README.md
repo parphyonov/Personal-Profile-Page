@@ -16,3 +16,10 @@
 1.3.1 Links to new profile image and background image are set;
 
 1.3.2 The class "profile-image" was left intact on my profile image.
+
+
+2.1 The name was personalized;
+
+2.2 Background section was personalized;
+
+2.3 Goals section was personalized.
