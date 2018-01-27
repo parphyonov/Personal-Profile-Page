@@ -1,7 +1,7 @@
 # Personal Profile Page
 ## Project 1 for my Treehouse Techdegree in Front-End Web Development
 
-### Execution of Project Instructions
+### Execution of Project Instructions:
 
 #### Step 1
 1. Found an image file to represent myself ::: images/me.png;
@@ -27,3 +27,6 @@
 1. Project expanded, additional page "Travel Map" added;
 2. Project expanded, an image with Saint Petersburg coat of arms added;
 3. Project expanded, CSS customized.
+
+#### Step 6
+1. Irrelevant => If you do not want to add an additional page then delete the experience link in the HTML.
