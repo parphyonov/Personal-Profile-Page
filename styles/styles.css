@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/spb.jpg') no-repeat center center;
+  background: url('../images/spb.jpg') no-repeat center center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -85,15 +85,19 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: #cf3a3a;
+  color: #efefef;
+}
+.coat {
+  position: absolute;
+  left: 11%;
 }
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
+  background-color: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -152,13 +156,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url('../images/twitter.svg');
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url('../images/linkedin.svg');
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url('../images/github.svg');
 }
 a.social:hover {
   opacity: 1;

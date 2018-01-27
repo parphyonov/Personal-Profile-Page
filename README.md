@@ -3,29 +3,27 @@
 
 ### Execution of Project Instructions
 
-1.1.1 Found an image file to represent myself ::: images/me.png;
+#### Step 1
+1. Found an image file to represent myself ::: images/me.png;
+2. Found an image file for the background ::: images/spb.jpg;
+3. rofile image file sized down to 307 Kb using Photoshop, now fits the limit (< 400kb);
+4. Background image file fits the limits imposed by the course (358kb < 1Mb);
+5. Text editor used is Atom 1.23.3;
+6. Links to new profile image and background image are set;
+7. The class "profile-image" was left intact on my profile image.
 
-1.1.2 Found an image file for the background ::: images/spb.jpg;
+#### Step 2
+1. The name was personalized;
+2. Background section was personalized;
+3. Goals section was personalized.
 
-1.2.1 Profile image file sized down to 307 Kb using Photoshop, now fits the limit (< 400kb);
+#### Step 3
+1. GitHub, Twitter and LinkedIn accounts added.
 
-1.2.2 Background image file fits the limits imposed by the course (358kb < 1Mb);
+#### Step 4
+1. Home link fixed.
 
-1.3 Text editor used is Atom 1.23.3;
-
-1.3.1 Links to new profile image and background image are set;
-
-1.3.2 The class "profile-image" was left intact on my profile image.
-
-
-2.1 The name was personalized;
-
-2.2 Background section was personalized;
-
-2.3 Goals section was personalized.
-
-
-3 GitHub, Twitter and LinkedIn accounts added.
-
-
-4 Home link fixed.
+#### Step 5
+1. Project expanded, additional page "Travel Map" added;
+2. Project expanded, an image with Saint Petersburg coat of arms added;
+3. Project expanded, CSS customized.
