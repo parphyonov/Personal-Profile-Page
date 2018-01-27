@@ -49,7 +49,11 @@
 Project 1 Study Guide
 
 2. NOTE: A good practice is to check your project for cross browser compatibility. Making sure that it looks and functions correctly in multiple (at least three) browsers is an important part of being a top-notch developer. If you want, leave a comment to the project reviewer about which browser(s) the project was checked to ensure they are seeing things as you have designed them.
+
 🕵🏻‍♂️ Google Chrome ::: Checked ::: Version 64.0.3282.119 (Official Build) (64-bit) 👍🏻
+
 🦊 Mozilla Firefox ::: Checked ::: Firefox Quantum 58.0 (64-bit) 👍🏻
+
 🤯 Internet Explorer/Edge ::: Not Checked ::: Not Available 👎🏻
+
 🦁 Safari ::: Checked ::: Version 11.0.3 (13604.5.6) 👍🏻
