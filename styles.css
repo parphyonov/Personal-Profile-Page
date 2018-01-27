@@ -70,11 +70,13 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid #fff;
   transition: all .5s;
+  transform: scale(.8) rotate(-5deg);
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(10deg);
+  border: 6px dashed #cf3a3a;
 }
 .tag {
   background-color: #efefef;
@@ -90,7 +92,7 @@ header .profile-image:hover {
 }
 .coat {
   position: absolute;
-  left: 11%;
+  right: 3%;
 }
 .card {
   margin: 30px;
@@ -105,6 +107,22 @@ header .profile-image:hover {
 .card:hover {
   border-color: #ff99ff;
 }
+.bottom .card {
+  max-width: 400px;
+}
+.bottom .card img {
+  height: 200px;
+}
+.card div {
+  text-align: center;
+}
+.card img {
+  height: 250px;
+}
+.card img:hover {
+  transform: scale(2) rotate(-360deg);
+  transition: all .5s;
+}
 
 ul.skills {
   padding: 0;
@@ -114,14 +132,26 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
-
-.skills li:nth-child(odd) {
-  background: #0399ff;
+#html {
+  background-color: #39add1;
+}
+#css {
+  background-color: #3079ab;
+}
+#js, #node {
+  background-color: #c25975;
+}
+#ios {
+  background-color: #53bbb4;
+}
+#html:hover, #css:hover, #js:hover, #node:hover, #ios:hover {
+  border-radius: 50%;
+  transform: rotate(360deg);
+  transition: all 1s;
 }
 
 footer {

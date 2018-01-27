@@ -57,3 +57,10 @@ Project 1 Study Guide
 🤯 Internet Explorer/Edge ::: Not Checked ::: Not Available 👎🏻
 
 🦁 Safari ::: Checked ::: Version 11.0.3 (13604.5.6) 👍🏻
+
+### Exceeding Expectations Section
+
+1. Create additional pages to expand on this online profile ::: Done in the process of project work;
+2. Edit the styling of the profile photo’s CSS properties. Pick at least one of the following properties to change: border, border-radius, transition ::: Done;
+3. Add more photos and imagery to the page ::: Done;
+4. Add more text to the page such as a list of your hobbies ::: Considered excessive.
