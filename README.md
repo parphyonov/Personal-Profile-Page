@@ -40,3 +40,6 @@
 #### Step 8
 1. Make sure to check your code is valid by running it through an HTML and CSS validator. Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code ::: Done. Also typographed via https://www.artlebedev.ru/typograf/. Also added W3C banner for correct CSS;
 2. There are a few exceptions that you don’t need to fix: Don’t worry about any warnings, we just need you to check any errors that might be there. If CSS validator flags use of calc, vendor prefixes or pseudo-elements/pseudo-classes these errors should be ignored. If HTML validator flags use of pipe (|) in Google font links/URLs this error can also be ignored ::: Done.
+
+#### Step 9
+1. Once you’ve completed the project, don’t forget to introduce yourself in the #welcome Slack channel so your fellow students can congratulate and encourage you! ::: Done before the project start.
