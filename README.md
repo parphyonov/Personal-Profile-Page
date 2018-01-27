@@ -30,3 +30,9 @@
 
 #### Step 6
 1. Irrelevant => If you do not want to add an additional page then delete the experience link in the HTML.
+
+#### Step 7
+1. Put your project files in a new GitHub repository on your GitHub account ::: Done before the project start;
+2. Make sure that you're only putting the files for this project in that repository ::: Made sure;
+3. Please do not create any new folders for this project ::: At some point during the work on this project I added 'Styles' folder for this project. Now it's deleted and 'styles.css' back to the root of the project;
+4. The GitHub Desktop application can automatically create a new repository for you. See the workshop 'Share Your Techdegree Projects with Github Desktop' for more info on how to put your project onto GitHub using the GitHub Desktop app (linked in the Additional Resources section) ::: Watched before the project start.
