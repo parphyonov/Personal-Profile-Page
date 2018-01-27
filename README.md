@@ -63,4 +63,4 @@ Project 1 Study Guide
 1. Create additional pages to expand on this online profile ::: Done in the process of project work;
 2. Edit the styling of the profile photo’s CSS properties. Pick at least one of the following properties to change: border, border-radius, transition ::: Done;
 3. Add more photos and imagery to the page ::: Done;
-4. Add more text to the page such as a list of your hobbies ::: Considered excessive.
+4. Add more text to the page such as a list of your hobbies ::: Done, on the Home page.
